@@ -1,0 +1,7 @@
+[package]
+name = "the_astrim_project"
+version = "0.1.0"
+authors = ["ttl"]
+
+[dependencies]
+ggez="*"
