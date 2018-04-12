@@ -4,6 +4,8 @@ use ggez::graphics;
 use ggez::graphics::{DrawMode, Point2};
 use ggez::event;
 
+pub mod cores;
+
 pub struct Astrim {
     pos_x: f32,
 }
